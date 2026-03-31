@@ -87,5 +87,5 @@ This project demonstrates:
 - Python 3.x
 
 ## Author
-
+John Pearce
 Created for Software Development Basics class
